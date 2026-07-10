@@ -5,7 +5,15 @@
       "name": "Системное программирование",
       "color": "#9A3B52",
       "createdAt": 1783664363432,
-      "materials": []
+      "materials": [
+        {
+          "id": "mrejpzj0lj5l1",
+          "name": "Билеты МДК 01.04 системное программирование.docx",
+          "size": 29148,
+          "path": "materials/mrejpj1kwcqvo/mrejpzj0lj5l1.docx",
+          "uploadedAt": 1783664386744
+        }
+      ]
     }
   ]
 }
