@@ -144,6 +144,22 @@
         }
       ],
       "createdAt": 1783972760550
+    },
+    {
+      "id": "mrjnblng0mqel",
+      "title": "Пед. основы СПО",
+      "subtitle": "2025",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjnbv9hja0ex",
+          "name": "Пед. основы СПО.pdf",
+          "size": 591154,
+          "path": "files/results/mrjnbv9hja0ex.pdf"
+        }
+      ],
+      "createdAt": 1783972777517
     }
   ],
   "news": [],
