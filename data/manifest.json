@@ -94,7 +94,24 @@
       "createdAt": 1783972642929
     }
   ],
-  "achievements": [],
+  "achievements": [
+    {
+      "id": "mrjn9edmnmd1n",
+      "title": "Наука 0+",
+      "subtitle": "2024",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjn9v888gc3q",
+          "name": "Сидаков Амир Сертификат Наука 0+.jpg",
+          "size": 136308,
+          "path": "files/achievements/mrjn9v888gc3q.jpg"
+        }
+      ],
+      "createdAt": 1783972683820
+    }
+  ],
   "results": [],
   "news": [],
   "gallery": []
