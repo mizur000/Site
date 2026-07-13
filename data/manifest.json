@@ -176,6 +176,22 @@
         }
       ],
       "createdAt": 1783972800974
+    },
+    {
+      "id": "mrjncgeltbx9f",
+      "title": "СДО Moodle",
+      "subtitle": "2025",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjncqqs1yksy",
+          "name": "Разработка электронный курсов в СДО Moodle.pdf",
+          "size": 537171,
+          "path": "files/results/mrjncqqs1yksy.pdf"
+        }
+      ],
+      "createdAt": 1783972818341
     }
   ],
   "news": [],
