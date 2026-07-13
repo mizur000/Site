@@ -226,5 +226,12 @@
       "createdAt": 1783972905110
     }
   ],
-  "gallery": []
+  "gallery": [
+    {
+      "id": "mrjnfe0trcohf",
+      "path": "gallery/mrjnfe0trcohf.jpg",
+      "caption": "",
+      "uploadedAt": 1783972941928
+    }
+  ]
 }
