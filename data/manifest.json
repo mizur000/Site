@@ -118,6 +118,48 @@
           "size": 18327,
           "path": "materials/mrjn7ec5rg1k0/mrjnsvdk56n9j.docx",
           "uploadedAt": 1783973570201
+        },
+        {
+          "id": "mrjnu3ooak2pb",
+          "name": "Технологии сетевого доступа.pptx",
+          "size": 536974,
+          "path": "materials/mrjn7ec5rg1k0/mrjnu3ooak2pb.pptx",
+          "uploadedAt": 1783973628500
+        },
+        {
+          "id": "mrjnu5hwmzudh",
+          "name": "Лабораторная работа 1 cisco.docx",
+          "size": 16212,
+          "path": "materials/mrjn7ec5rg1k0/mrjnu5hwmzudh.docx",
+          "uploadedAt": 1783973629891
+        },
+        {
+          "id": "mrjnu6kjvkqje",
+          "name": "Задание IPv4.docx",
+          "size": 21056,
+          "path": "materials/mrjn7ec5rg1k0/mrjnu6kjvkqje.docx",
+          "uploadedAt": 1783973631468
+        },
+        {
+          "id": "mrjnu7sc88y3x",
+          "name": "Что нужно знать об IPv4 и IPv6.pptx",
+          "size": 51259,
+          "path": "materials/mrjn7ec5rg1k0/mrjnu7sc88y3x.pptx",
+          "uploadedAt": 1783973633015
+        },
+        {
+          "id": "mrjnu8zbcaqpj",
+          "name": "СиОТ Теория + задание ИБ в сетях.docx",
+          "size": 24740,
+          "path": "materials/mrjn7ec5rg1k0/mrjnu8zbcaqpj.docx",
+          "uploadedAt": 1783973634449
+        },
+        {
+          "id": "mrjnua35edxee",
+          "name": "Практики СиОТ.pdf",
+          "size": 5933292,
+          "path": "materials/mrjn7ec5rg1k0/mrjnua35edxee.pdf",
+          "uploadedAt": 1783973637752
         }
       ]
     }
