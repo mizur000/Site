@@ -15,5 +15,47 @@
         }
       ]
     }
-  ]
+  ],
+  "profile": {
+    "fio": "Тарасов Илья Юрьевич",
+    "role": "Преподаватель специальных дисциплин",
+    "position": "",
+    "workplace": "Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации",
+    "disciplines": "",
+    "degree": "",
+    "academicTitle": "",
+    "specialty": "",
+    "education": "",
+    "qualification": "",
+    "totalExperience": "",
+    "specialtyExperience": "",
+    "email": "",
+    "phone": "",
+    "telegram": "",
+    "photoPath": "",
+    "intro": ""
+  },
+  "awards": [
+    {
+      "id": "mrjn690ia7i6b",
+      "title": "09.02.07",
+      "subtitle": "2026",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjn6ijt0fh4a",
+          "name": "09.02.07.pdf",
+          "size": 847543,
+          "path": "files/awards/mrjn6ijt0fh4a.pdf"
+        }
+      ],
+      "createdAt": 1783972527722
+    }
+  ],
+  "students": [],
+  "achievements": [],
+  "results": [],
+  "news": [],
+  "gallery": []
 }
