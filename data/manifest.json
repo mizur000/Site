@@ -76,7 +76,24 @@
       "createdAt": 1783972551279
     }
   ],
-  "students": [],
+  "students": [
+    {
+      "id": "mrjn88fn9lubt",
+      "title": "Метод. рекомендации по оформлению дипломного проекта",
+      "subtitle": "",
+      "body": "При оформление записки и презентации дипломного проекта пользуйтесь следующими рекомендациями",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjn8z829q4v7",
+          "name": "Metodicheskie-rekomendatsii-ISIP-programmist-2026.pdf",
+          "size": 994209,
+          "path": "files/students/mrjn8z829q4v7.pdf"
+        }
+      ],
+      "createdAt": 1783972642929
+    }
+  ],
   "achievements": [],
   "results": [],
   "news": [],
