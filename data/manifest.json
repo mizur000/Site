@@ -128,7 +128,24 @@
       "createdAt": 1783972709078
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "id": "mrjnb7tswgfzq",
+      "title": "Путь к интеллекту",
+      "subtitle": "2024",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjnbi6q229yg",
+          "name": "Путь к инт (1).pdf",
+          "size": 579180,
+          "path": "files/results/mrjnbi6q229yg.pdf"
+        }
+      ],
+      "createdAt": 1783972760550
+    }
+  ],
   "news": [],
   "gallery": []
 }
