@@ -62,7 +62,64 @@
       "name": "Сетевые и облачные технологии",
       "color": "#4F7A3A",
       "createdAt": 1783972566869,
-      "materials": []
+      "materials": [
+        {
+          "id": "mrjnsmqob3uh5",
+          "name": "PaaS, IaaS.pptx",
+          "size": 141246,
+          "path": "materials/mrjn7ec5rg1k0/mrjnsmqob3uh5.pptx",
+          "uploadedAt": 1783973559407
+        },
+        {
+          "id": "mrjnso6nna89b",
+          "name": "Задание 10.02.docx",
+          "size": 18035,
+          "path": "materials/mrjn7ec5rg1k0/mrjnso6nna89b.docx",
+          "uploadedAt": 1783973560837
+        },
+        {
+          "id": "mrjnspadpfk00",
+          "name": "Использование протоколов HTTP, SOAP, XML.docx",
+          "size": 25261,
+          "path": "materials/mrjn7ec5rg1k0/mrjnspadpfk00.docx",
+          "uploadedAt": 1783973562190
+        },
+        {
+          "id": "mrjnsqbydxdlv",
+          "name": "Лабораторная работа 3 СиОТ.docx",
+          "size": 18571,
+          "path": "materials/mrjn7ec5rg1k0/mrjnsqbydxdlv.docx",
+          "uploadedAt": 1783973563704
+        },
+        {
+          "id": "mrjnsri05drez",
+          "name": "Гипервизор.pptx",
+          "size": 790841,
+          "path": "materials/mrjn7ec5rg1k0/mrjnsri05drez.pptx",
+          "uploadedAt": 1783973565741
+        },
+        {
+          "id": "mrjnst2ls5m1h",
+          "name": "Задание 24.02.docx",
+          "size": 15043,
+          "path": "materials/mrjn7ec5rg1k0/mrjnst2ls5m1h.docx",
+          "uploadedAt": 1783973567278
+        },
+        {
+          "id": "mrjnsu9aqa581",
+          "name": "Лабораторная работа 4.docx",
+          "size": 16783,
+          "path": "materials/mrjn7ec5rg1k0/mrjnsu9aqa581.docx",
+          "uploadedAt": 1783973568728
+        },
+        {
+          "id": "mrjnsvdk56n9j",
+          "name": "Знакомство с возможностями облачной платформы Microsoft Azure.docx",
+          "size": 18327,
+          "path": "materials/mrjn7ec5rg1k0/mrjnsvdk56n9j.docx",
+          "uploadedAt": 1783973570201
+        }
+      ]
     }
   ],
   "profile": {
