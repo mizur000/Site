@@ -192,6 +192,22 @@
         }
       ],
       "createdAt": 1783972818341
+    },
+    {
+      "id": "mrjncu2igpfa2",
+      "title": "Основы информационной безопасности",
+      "subtitle": "2025",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjnd9oseb9kk",
+          "name": "Основы ИБ.pdf",
+          "size": 626982,
+          "path": "files/results/mrjnd9oseb9kk.pdf"
+        }
+      ],
+      "createdAt": 1783972844669
     }
   ],
   "news": [],
