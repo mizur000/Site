@@ -54,6 +54,62 @@
           "size": 16292,
           "path": "materials/mrejpj1kwcqvo/mrjnrmiqu90ah.docx",
           "uploadedAt": 1783973511981
+        },
+        {
+          "id": "mrjnvckw5mf4b",
+          "name": "Управление потоками в C++ теория и примеры (1).docx",
+          "size": 22458,
+          "path": "materials/mrejpj1kwcqvo/mrjnvckw5mf4b.docx",
+          "uploadedAt": 1783973685863
+        },
+        {
+          "id": "mrjnvdrbekn1m",
+          "name": "Задание потоки.docx",
+          "size": 7729,
+          "path": "materials/mrejpj1kwcqvo/mrjnvdrbekn1m.docx",
+          "uploadedAt": 1783973687130
+        },
+        {
+          "id": "mrjnveqi4gpfl",
+          "name": "Решение параллельная обработка.docx",
+          "size": 8603,
+          "path": "materials/mrejpj1kwcqvo/mrjnveqi4gpfl.docx",
+          "uploadedAt": 1783973688560
+        },
+        {
+          "id": "mrjnvfu893i1c",
+          "name": "СП Задание на 04.10 .docx",
+          "size": 19097,
+          "path": "materials/mrejpj1kwcqvo/mrjnvfu893i1c.docx",
+          "uploadedAt": 1783973690090
+        },
+        {
+          "id": "mrjnvh0qmlz32",
+          "name": "Практическое задание по многопоточному программированию в C++ (1).docx",
+          "size": 19643,
+          "path": "materials/mrejpj1kwcqvo/mrjnvh0qmlz32.docx",
+          "uploadedAt": 1783973691382
+        },
+        {
+          "id": "mrjnvi0mzlrz2",
+          "name": "Задание память.docx",
+          "size": 15717,
+          "path": "materials/mrejpj1kwcqvo/mrjnvi0mzlrz2.docx",
+          "uploadedAt": 1783973692845
+        },
+        {
+          "id": "mrjnvj595o8kf",
+          "name": "Обмен данными между процессами (1).pptx",
+          "size": 806814,
+          "path": "materials/mrejpj1kwcqvo/mrjnvj595o8kf.pptx",
+          "uploadedAt": 1783973695033
+        },
+        {
+          "id": "mrjnvku1grpzl",
+          "name": "Mmap теория + примеры (1).docx",
+          "size": 20337,
+          "path": "materials/mrejpj1kwcqvo/mrjnvku1grpzl.docx",
+          "uploadedAt": 1783973696377
         }
       ]
     },
