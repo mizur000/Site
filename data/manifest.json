@@ -110,6 +110,22 @@
         }
       ],
       "createdAt": 1783972683820
+    },
+    {
+      "id": "mrjna4ebhpjb3",
+      "title": "Сидаков Амир Файловые операции",
+      "subtitle": "2024",
+      "body": "",
+      "links": [],
+      "files": [
+        {
+          "id": "mrjnae9bfmspb",
+          "name": "Сидаков Амир Файловые Операции.jpg",
+          "size": 1672453,
+          "path": "files/achievements/mrjnae9bfmspb.jpg"
+        }
+      ],
+      "createdAt": 1783972709078
     }
   ],
   "results": [],
